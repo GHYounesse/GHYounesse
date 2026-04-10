@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm X Y</h1>
+<h1 align="center">Hi 👋, I'm GHYounesse</h1>
 <h3 align="center">Full Stack Developer | Passionate about building modern applications</h3>
 
 ---
@@ -30,15 +30,15 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=GHYounesse&show_icons=true&theme=default" alt="stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=default" alt="streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GHYounesse&theme=default" alt="streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact" alt="languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GHYounesse&layout=compact" alt="languages" />
 </p>
 
 ---
