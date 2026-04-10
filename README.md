@@ -1,71 +1,91 @@
-<h1 align="center">Hi 👋, I'm GHYounesse</h1>
-<h3 align="center">Full Stack Developer | Passionate about building modern applications</h3>
+<h1 align="center">Hi 👋, I'm GHYounesse
+</h1>
+
+<p align="center">
+  <a href="#">
+    <img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Developer;Building+Web+%26+Mobile+Apps;Open+to+Work&center=true&width=500&height=45">
+  </a>
+</p>
 
 ---
 
 ## 💼 About Me
-- 🎓 Currently a **student**
-- 💻 Focused on **Full Stack Development**
-- 🚀 Passionate about **building scalable web & mobile applications**
-- 🎯 Currently looking for **job opportunities**
-- 🌱 Continuously learning and improving my skills
+- 🎓 Computer Science **Student**
+- 💻 **Full Stack Developer** specialized in modern web & mobile apps
+- 🚀 Passionate about building **scalable and user-friendly applications**
+- 🎯 Actively looking for **Full Stack Developer opportunities**
+- 📈 Always learning and improving
 
 ---
 
-## 🛠️ Tech Stack
+## 🧠 Tech Stack
 
 ### 💻 Languages
-- PHP
-- JavaScript
+<p>
+  <img src="https://skillicons.dev/icons?i=php,js" />
+</p>
 
-### ⚙️ Frameworks & Libraries
-- React
-- Angular
-- Symfony
-- Laravel
-- React Native
+### ⚙️ Frameworks & Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=react,angular,laravel,symfony,reactnative" />
+</p>
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GHYounesse&show_icons=true&theme=default" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=GHYounesse&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GHYounesse&theme=default" alt="streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GHYounesse&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GHYounesse&layout=compact" alt="languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GHYounesse&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-## 🚀 Projects
-Here are some of my highlighted projects:
+## 🚀 Featured Projects
 
-- 🔹 **Project 1** – Short description of what it does  
-- 🔹 **Project 2** – Short description of what it does  
-- 🔹 **Project 3** – Short description of what it does  
+### 🔹 Project Name 1
+> Short impactful description (what problem it solves + tech used)  
+🔗 Link: https://github.com/YOUR_USERNAME/project1
+
+### 🔹 Project Name 2
+> Short impactful description  
+🔗 Link: https://github.com/YOUR_USERNAME/project2
+
+### 🔹 Project Name 3
+> Short impactful description  
+🔗 Link: https://github.com/YOUR_USERNAME/project3
 
 ---
 
 ## 🌐 Connect With Me
-- 💼 LinkedIn: [Your LinkedIn](#)
-- 🌍 Portfolio: [Your Portfolio](#)
+
+<p>
+  <a href="#"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=github" /></a>
+</p>
 
 ---
 
-## 🎯 Goals
-- 🔍 Secure a **Full Stack Developer position**
-- 📱 Build impactful **web & mobile applications**
-- 🤝 Contribute to **open source projects**
+## 🎯 Career Goals
+- 💼 Land a **Full Stack Developer role**
+- 📱 Build high-quality **web & mobile applications**
+- 🌍 Contribute to impactful **real-world projects**
 
 ---
 
-## ⚡ Fun Fact
-I love turning ideas into real-world applications 🚀
+## 🏆 Highlights
+- 🚀 Full Stack Projects using modern frameworks
+- 📱 Experience with cross-platform mobile development
+- ⚡ Fast learner & problem solver
 
 ---
+
+## ⚡ Motto
+> “Code. Learn. Build. Repeat.”
