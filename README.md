@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <strong>Full Stack Developer • AI Enthusiast • Computer Science Student</strong>
+  <strong>Full Stack Developer • AI Enthusiast • Software Engineer</strong>
 </p>
 
 <p align="center">
@@ -22,8 +22,6 @@
 ---
 
 # 🚀 About Me
-
-- 🎓 Computer Science Student
 - 💻 Passionate about Full Stack Development & Artificial Intelligence
 - ⚙️ Experience building complete web and mobile applications
 - 🧠 Interested in AI, Backend Development, and System Design
