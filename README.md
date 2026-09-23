@@ -222,7 +222,6 @@ I'm currently open to:
 - Backend Developer
 - AI Engineer
 - Software Engineer
-- Internship Opportunities
 - Junior Developer Positions
 - Open Source Collaboration
 
@@ -231,7 +230,7 @@ I'm currently open to:
 # 📫 Let's Connect
 
 <p align="left">
-<a href="https://linkedin.com/in/YOUR-LINKEDIN">
+<a href="https://www.linkedin.com/in/younes-ghalloum">
 <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
@@ -239,11 +238,11 @@ I'm currently open to:
 <img src="https://skillicons.dev/icons?i=github" />
 </a>
 
-<a href="mailto:your@email.com">
+<a href="mailto:ghalloumyounes2003@gmail.com">
 <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://your-portfolio.com">
+<a href="https://ghyounesse.github.io">
 <img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge"/>
 </a>
 </p>
