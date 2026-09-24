@@ -14,9 +14,9 @@
 
 <p align="center">
   <a href="https://github.com/GHYounesse">GitHub</a> •
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN">LinkedIn</a> •
-  <a href="https://your-portfolio.com">Portfolio</a> •
-  <a href="mailto:your@email.com">Email</a>
+  <a href="https://linkedin.com/in/younes-ghalloum">LinkedIn</a> •
+  <a href="[https://your-portfolio.com](https://ghyounesse.github.io)">Portfolio</a> •
+  <a href="mailto:ghalloumyounes2003@gmail.com">Email</a>
 </p>
 
 ---
