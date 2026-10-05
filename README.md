@@ -1,19 +1,19 @@
-<h1 align="center">Hi 👋, I'm GHYounesse</h1>
+<h1 align="center">Hi 👋, I'm Younes</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Developer;AI+Enthusiast;Building+Modern+Web+Applications;Open+to+Work&center=true&width=550&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Full-Stack+Developer;Laravel+%7C+React+%7C+Angular;Building+web+apps+that+solve+real+problems;Open+to+work&center=true&width=550&height=45">
 </p>
 
 <p align="center">
-  <strong>Full Stack Developer • AI Enthusiast • Software Engineer</strong>
+  <strong>Full-Stack Developer • Laravel · React · FastAPI</strong><br/>
+  Casablanca, Morocco
 </p>
 
 <p align="center">
-  I build scalable web applications, REST APIs, and AI-powered tools with a focus on clean architecture, performance, and user experience.
+  I build web applications and REST APIs, with a focus on clean code, reliable payments and permissions, and interfaces that are easy to use.
 </p>
 
 <p align="center">
-  <a href="https://github.com/GHYounesse">GitHub</a> •
   <a href="https://linkedin.com/in/younes-ghalloum">LinkedIn</a> •
   <a href="https://ghyounesse.github.io">Portfolio</a> •
   <a href="mailto:ghalloumyounes2003@gmail.com">Email</a>
@@ -21,177 +21,104 @@
 
 ---
 
-# 🚀 About Me
-- 💻 Passionate about Full Stack Development & Artificial Intelligence
-- ⚙️ Experience building complete web and mobile applications
-- 🧠 Interested in AI, Backend Development, and System Design
-- 🌱 Currently learning LLMs, RAG, AI Agents, and Cloud Technologies
-- 🚀 Open to Full Stack Developer, Backend Developer, and AI Engineer opportunities
+## 🚀 About me
+
+I'm a full-stack developer finishing a Master's in Information Systems & Data Science at ENSAM Casablanca. My main stack is **Laravel, Inertia.js and React with TypeScript**, and I also work with **FastAPI, Symfony and Angular**.
+
+In the past two years I worked on three very different products: an NGO management platform, a cybersecurity platform, and a real-time bus tracking app. I'm looking for a role where I can keep building features from start to finish.
 
 ---
 
-# 🛠 Tech Stack
+## 💼 Experience
 
-## 💻 Languages
+- **Full-Stack Developer Intern, Aditya Sarl** (Jan – Jun 2026): built modules for an NGO management platform (bulk actions, document management, planning, automatic PDF reports and certificates) with Laravel, React and Inertia.js. Refactored the Laravel controllers into a structure that became the project standard.
+- **Full-Stack Developer Intern, Hisneo** (Jul – Sep 2025): built the backend of a cybersecurity platform with FastAPI (31 endpoints) that checks IPs, websites and files against several threat-intelligence services, with real-time alerts and an Angular dashboard, deployed with Docker.
+- **Junior Full-Stack Developer, CTM** (Oct 2024 – May 2025): redesigned the screens of a real-time bus tracking app in Angular, and worked on its PHP (Flight) and PostgreSQL endpoints.
+
+---
+
+## 📌 Featured projects
+
+### 🛒 Baskit: e-commerce store
+
+A full-stack online store with a guest cart that is kept after login, Stripe payments verified on the server, and an admin area with roles.
+
+- Webhook-based payment confirmation and orders that can never be created twice
+- Stock locked in a database transaction during checkout
+- Emails sent in the background with queues
+- CI with GitHub Actions
+
+**Tech:** Laravel • React • Inertia.js • Stripe
+
+🔗 [Live demo](REPLACE_WITH_BASKIT_DEMO_URL) • [Repository](REPLACE_WITH_BASKIT_REPO_URL)
+
+---
+
+### 🐞 Bug Tracker: issue tracking app
+
+An application to track and fix bugs, built with Symfony 7.
+
+- Status workflow and full history of changes
+- Roles per project (each person only sees and does what they are allowed to)
+- Notifications and secure authentication
+- REST API with API Platform
+- Docker and CI with GitHub Actions
+
+**Tech:** Symfony • PostgreSQL • Docker • API Platform
+
+🔗 [Repository](REPLACE_WITH_BUG_TRACKER_REPO_URL)
+
+---
+
+### 🤖 In progress: AI document assistant
+
+An app where you upload PDFs and ask questions, with answers that cite the exact page. I'm building it to learn retrieval-augmented generation (RAG) properly: ingestion, search, citations, and measuring answer quality.
+
+**Tech:** Python • FastAPI • React • ChromaDB
+
+---
+
+## 🛠 Tech stack
+
+**Languages**
 
 <p>
-<img src="https://skillicons.dev/icons?i=php,js,ts,python,java" />
+<img src="https://skillicons.dev/icons?i=php,ts,js,python" />
 </p>
 
-## 🎨 Frontend
+**Frontend**
 
 <p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,angular,html,css,tailwind,vite" />
+<img src="https://skillicons.dev/icons?i=react,angular,html,css,tailwind" />
 </p>
 
-## ⚙️ Backend
+**Backend**
 
 <p>
-<img src="https://skillicons.dev/icons?i=laravel,symfony,nodejs,express,fastapi" />
+<img src="https://skillicons.dev/icons?i=laravel,symfony,fastapi" />
 </p>
 
-## 🗄 Databases
+**Databases**
 
 <p>
-<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis" />
 </p>
 
-## 🤖 AI & Machine Learning
+**DevOps & tools**
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow" />
-</p>
-
-- OpenAI API
-- LangChain
-- LangGraph
-- Ollama
-- RAG Applications
-- MCP (Model Context Protocol)
-
-## ☁️ DevOps & Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=docker,git,github,linux,postman,figma,vscode" />
+<img src="https://skillicons.dev/icons?i=docker,git,github,githubactions,postman" />
 </p>
 
 ---
 
-# 📌 Featured Projects
+## 📚 Currently learning
 
-## 🤖 AI Document Assistant
-
-An AI-powered application that allows users to upload PDF documents and ask questions using Retrieval-Augmented Generation (RAG).
-
-**Highlights**
-
-- PDF Upload
-- Semantic Search
-- Authentication
-- AI Chat
-- Streaming Responses
-
-**Tech**
-
-Python • FastAPI • React • OpenAI • ChromaDB
-
-🔗 Live Demo
-
-🔗 Repository
+LLMs and RAG, AI agents, CI/CD, and system design.
 
 ---
 
-## 💼 SaaS Project Management Platform
-
-A complete project management application inspired by modern SaaS products.
-
-**Features**
-
-- Authentication
-- Dashboard
-- Kanban Board
-- Role Management
-- Notifications
-
-**Tech**
-
-Laravel • React • MySQL
-
-🔗 Live Demo
-
-🔗 Repository
-
----
-
-## 📱 Cross-Platform Mobile App
-
-A React Native mobile application focused on performance and clean UI.
-
-**Features**
-
-- Authentication
-- Offline Storage
-- REST API Integration
-- Push Notifications
-
-**Tech**
-
-React Native • Laravel API
-
-🔗 Repository
-
----
-
-## 🌐 Portfolio Website
-
-My personal portfolio showcasing projects, skills, and experience.
-
-**Tech**
-
-React • Tailwind CSS
-
-🔗 Live Demo
-
----
-
-# 🏗 What I Enjoy Building
-
-- REST APIs
-- Full Stack Applications
-- SaaS Platforms
-- AI Applications
-- Authentication Systems
-- Dashboards
-- Mobile Applications
-- Database Design
-- Clean Architecture
-- Developer Tools
-
----
-
-# 📚 Currently Learning
-
-- Large Language Models (LLMs)
-- AI Agents
-- Model Context Protocol (MCP)
-- LangGraph
-- Docker
-- Kubernetes
-- CI/CD
-- System Design
-
----
-
-# 🚧 Currently Building
-
-- 🤖 AI Resume Analyzer
-- 📄 RAG Chat with PDFs
-- 📊 Full Stack SaaS Dashboard
-- 🔍 AI Search Application
-
----
-
-# 📊 GitHub Statistics
+## 📊 GitHub stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=GHYounesse&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
@@ -200,34 +127,7 @@ React • Tailwind CSS
 
 ---
 
-# 🤝 Open Source
-
-I enjoy contributing to open-source projects by:
-
-- Fixing bugs
-- Improving documentation
-- Adding new features
-- Refactoring code
-- Writing tests
-
-I'm always looking for opportunities to collaborate and learn from experienced developers.
-
----
-
-# 💼 Looking For
-
-I'm currently open to:
-
-- Full Stack Developer
-- Backend Developer
-- AI Engineer
-- Software Engineer
-- Junior Developer Positions
-- Open Source Collaboration
-
----
-
-# 📫 Let's Connect
+## 📫 Let's connect
 
 <p align="left">
 <a href="https://www.linkedin.com/in/younes-ghalloum">
@@ -245,10 +145,4 @@ I'm currently open to:
 <a href="https://ghyounesse.github.io">
 <img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge"/>
 </a>
-</p>
-
----
-
-<p align="center">
-💡 <i>"Build things that people can use, improve them continuously, and never stop learning."</i>
 </p>
