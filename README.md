@@ -16,7 +16,7 @@
 <p align="center">
   <a href="https://linkedin.com/in/younes-ghalloum">LinkedIn</a> •
   <a href="https://ghyounesse.github.io">Portfolio</a> •
-  <a href="mailto:ghalloumyounes2003@gmail.com">Email</a>
+  <a href="mailto:simplelogin-newsletter.festivity961@simplelogin.com">Email</a>
 </p>
 
 ---
@@ -138,7 +138,7 @@ LLMs and RAG, AI agents, CI/CD, and system design.
 <img src="https://skillicons.dev/icons?i=github" />
 </a>
 
-<a href="mailto:ghalloumyounes2003@gmail.com">
+<a href="mailto:simplelogin-newsletter.festivity961@simplelogin.com">
 <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
